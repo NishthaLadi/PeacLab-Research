@@ -104,7 +104,7 @@ The long-term goal is to determine whether these utilization patterns can suppor
 
 ## M100 Notebooks
 
-### `big_m100_filtering.ipynb`
+`big_m100_filtering.ipynb`
 
 Preprocesses and filters the MARCONI100 workload data before analysis.
 
@@ -112,7 +112,7 @@ This notebook prepares the dataset for downstream resource-utilization experimen
 
 ---
 
-### `big_m100_analysis2.ipynb`
+`big_m100_analysis2.ipynb`
 
 Performs exploratory analysis of CPU, memory, and GPU utilization across M100 jobs.
 
@@ -120,7 +120,7 @@ The notebook is used to investigate resource-usage patterns and identify differe
 
 ---
 
-### `plotly_visualization.ipynb`
+`plotly_visualization.ipynb`
 
 Creates interactive visualizations of resource-utilization profiles using Plotly.
 
@@ -128,7 +128,7 @@ These visualizations make it easier to examine how CPU, GPU, and memory utilizat
 
 ---
 
-### `plotly_pelt_visualization.ipynb`
+`plotly_pelt_visualization.ipynb`
 
 Explores temporal resource-utilization profiles using **change-point detection**.
 
